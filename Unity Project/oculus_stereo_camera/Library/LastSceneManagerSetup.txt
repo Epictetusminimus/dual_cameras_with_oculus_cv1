@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/oculus_stereo_camera.unity
+  isLoaded: 1
+  isActive: 1

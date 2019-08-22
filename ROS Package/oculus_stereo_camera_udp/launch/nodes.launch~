@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="oculus_stereo_camera_udp" type="left_camera_udp.py" name="left_camera"/>
+
+  <node pkg="oculus_stereo_camera_udp" type="right_camera_udp.py" name="right_camera"/>
+
+  <node pkg="oculus_stereo_camera_udp" type="oculus_move_head_udp.py" output="screen"/>
+
+</launch>

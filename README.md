@@ -29,7 +29,7 @@ The robot should be running the following ROS Packages:
 The remote computer should be running the Unity application called &quot;oculus\_stereo\_camera&quot;. This application will be responsible for receiving the images from the robot and sending the orientation of the Oculus CV1 using  UDP sockets.
 
 A system overview is illustrated in the image below:
-![alt text](system-overview.jpg)
+![alt text](docs/imgs/system-overview.jpg)
 
 **How to install**
 

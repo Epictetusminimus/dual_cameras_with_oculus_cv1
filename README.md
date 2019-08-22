@@ -1,4 +1,4 @@
-## Using two cameras to generate 3D images for the Oculus Rift CV1**
+## Using two cameras to generate 3D images for the Oculus Rift CV1
 
 Author: Francisco Erivaldo Fernandes Junior
 
